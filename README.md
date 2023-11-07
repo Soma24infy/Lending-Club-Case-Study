@@ -23,8 +23,8 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Contributors
--- Gaurav Dhuri
--- Soma Mukherjee
+* Gaurav Dhuri
+* Soma Mukherjee
 
 
 
